@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QuestTrack: Gamified Habit Tracker",
+  "description": "A high-energy, BGMI/Duolingo inspired habit tracking application featuring XP progression, streak-based rewards, and visual analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
